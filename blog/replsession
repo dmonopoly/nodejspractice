@@ -1,0 +1,6 @@
+var fs = require('fs')
+var buffer = fs.readFileSync('views/posts/new.html')
+var mybuffer = fs.readFileSync('views/posts/new.html')
+mybuffer
+var html = fs.readFileSync('views/posts/new.html', 'utf8')
+html

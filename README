@@ -1,0 +1,11 @@
+Quick practice following http://www.ixxus.com/blog/2012/09/quick-start-node-js/ (easy)
+
+and other stuff, like http://shapeshed.com/creating-a-basic-site-with-node-and-express/ (express, some topics hidden)
+
+http://howtonode.org/hello-node
+
+primary: http://net.tutsplus.com/sessions/node-js-step-by-step/
+
+COMMANDS
+nodemon myjsfile.js
+npm install -g somepackage
